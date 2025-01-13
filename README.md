@@ -6,7 +6,7 @@ This repo is a [Dev Container](https://code.visualstudio.com/docs/devcontainers/
 
 ## Setup
 
-Click "Use this template" to copy this repo to your GitHub account. All succeeding steps will be with your copy.
+Click `Use this template -> Create a new repository` to copy this repo to your GitHub account.
 
 With the copy, either click the "open with codespaces"([?](https://github.com/features/codespaces)) button above or:
 

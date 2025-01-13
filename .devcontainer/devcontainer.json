@@ -9,5 +9,8 @@
 			]
 		}
 	},
-	"postCreateCommand": "pip3 install --user -r requirements.txt"
+	"postCreateCommand": {
+		"pip": "pip3 install --user -r requirements.txt",
+		"git": "git remote add upstream https://github.com/Jazz23/CSE201-Homeworks-Unofficial.git && git fetch upstream main"
+	}
 }
