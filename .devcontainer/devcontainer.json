@@ -6,7 +6,10 @@
 			"extensions": [
 				"donjayamanne.python-extension-pack",
 				"ms-toolsai.jupyter"
-			]
+			],
+			"settings": {
+				"dev.containers.copyGitConfig": false
+			}
 		}
 	},
 	"postCreateCommand": {
